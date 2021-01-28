@@ -1,7 +1,7 @@
 # Sudoku Solver 🧩
 This project was developed under the Logic For Programming course of the Bachelors Degree in Computer Science and Engineering, at Instituto Superior Técnico, Lisbon.
 
-We developed sudoku solver using SWI-Prolog.
+We developed a sudoku solver using SWI-Prolog.
 
 ### Table of content
 
@@ -98,7 +98,7 @@ On their website, you can also find tutorials and more useful information!
 ## Show your support 
 
 </a>
-:star: Star us on GitHub — it helps!
+:star: Star me on GitHub — it helps!
 
 
 
